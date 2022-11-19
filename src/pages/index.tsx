@@ -1,6 +1,6 @@
 import { Box } from '@chakra-ui/react'
 import Head from 'next/head'
-import React from 'react'
+import { Sample } from '../components/Component'
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
         <title></title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Sample/>
     </Box>
   )
 }
