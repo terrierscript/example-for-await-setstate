@@ -13,7 +13,7 @@
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "framer-motion": "^7.6.6",
-    "next": "^12.3.3",
+    "next": "~12.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vitest": "^0.25.2"
